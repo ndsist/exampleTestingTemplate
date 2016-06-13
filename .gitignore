@@ -1,0 +1,24 @@
+# eclipse files
+.cproject
+.project
+.settings/
+
+#files created by vim
+*~
+*.swp
+*.swo
+
+#database modified every time the tests are run
+*.sqlite
+
+# todo memo file 
+memo.txt
+
+#python cache
+utilsScript/__pycache__/
+
+#build file
+palindromes_build/
+palindromes_install/
+googletest-release-1.7.0_build/
+googletest-release-1.7.0/
