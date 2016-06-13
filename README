@@ -1,0 +1,9 @@
+Run 
+./buildGtest.sh 
+to download and build the gtest library.
+
+There are at presente 3 folders:
+- palindromes: it contains the src file for the library (src folder), for the test (test folder) and the executable (bin folder);
+  you can run different command to build your library and run the tests.
+- palindromes_build: folder use to build the tests and the executable.
+- palindromes_install: folder with your built library and executable.
